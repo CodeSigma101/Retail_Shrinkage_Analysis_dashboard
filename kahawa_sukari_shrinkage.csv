@@ -1,0 +1,501 @@
+date,store,section,sku,units_lost,kes_value,cause,hour,day
+2026-03-15,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,30795,Supplier_Short,20,Tuesday
+2026-04-07,Kahawa Sukari,Skin Care,Bio_Oil,3,59732,Damage,12,Monday
+2026-03-14,Kahawa Sukari,Liquor,Whiskey_750ml,3,11265,Theft,10,Monday
+2026-04-15,Kahawa Sukari,Skin Care,Bio_Oil,4,52194,Damage,18,Tuesday
+2026-04-07,Kahawa Sukari,Household,Tissue_12pack,4,3371,Damage,15,Thursday
+2026-03-28,Kahawa Sukari,Electronics,TV_43in,1,46090,Damage,13,Saturday
+2026-04-18,Kahawa Sukari,Electronics,Blender,4,969,Damage,15,Tuesday
+2026-03-07,Kahawa Sukari,Electronics,TV_43in,2,69925,Theft,13,Thursday
+2026-04-21,Kahawa Sukari,Electronics,Blender,1,1415,Supplier_Short,19,Wednesday
+2026-04-29,Kahawa Sukari,Groceries,Rice_5kg,2,1384,Supplier_Short,19,Monday
+2026-04-23,Kahawa Sukari,Liquor,Whiskey_750ml,4,33693,Supplier_Short,20,Wednesday
+2026-04-15,Kahawa Sukari,Household,Tissue_12pack,3,3104,Supplier_Short,8,Tuesday
+2026-03-19,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,40658,Admin_Error,17,Sunday
+2026-03-18,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,7747,Theft,21,Thursday
+2026-03-24,Kahawa Sukari,Liquor,Vodka_750ml,3,2934,Admin_Error,21,Tuesday
+2026-04-29,Kahawa Sukari,Electronics,Microwave,4,2099,Admin_Error,14,Saturday
+2026-03-16,Kahawa Sukari,Groceries,Cooking_Oil_5L,3,36551,Supplier_Short,16,Saturday
+2026-04-29,Kahawa Sukari,Skin Care,Sunscreen,3,18556,Admin_Error,10,Wednesday
+2026-04-19,Kahawa Sukari,Household,Detergent_5L,3,2268,Admin_Error,16,Sunday
+2026-03-21,Kahawa Sukari,Groceries,Cooking_Oil_5L,4,15627,Theft,16,Sunday
+2026-04-28,Kahawa Sukari,Liquor,Wine_750ml,2,2261,Theft,9,Tuesday
+2026-04-11,Kahawa Sukari,Household,Soap_Bar,1,3024,Admin_Error,17,Tuesday
+2026-03-17,Kahawa Sukari,Liquor,Wine_750ml,4,3145,Spoilage,11,Tuesday
+2026-03-17,Kahawa Sukari,Skin Care,Body_Lotion,4,38483,Damage,14,Friday
+2026-03-24,Kahawa Sukari,Household,Tissue_12pack,3,2756,Supplier_Short,15,Thursday
+2026-03-06,Kahawa Sukari,Skin Care,Body_Lotion,1,55994,Damage,21,Thursday
+2026-03-11,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,41531,Admin_Error,9,Saturday
+2026-03-25,Kahawa Sukari,Liquor,Vodka_750ml,2,3273,Theft,21,Thursday
+2026-04-05,Kahawa Sukari,Household,Tissue_12pack,4,2813,Supplier_Short,17,Wednesday
+2026-04-11,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,55757,Supplier_Short,20,Sunday
+2026-03-11,Kahawa Sukari,Electronics,TV_43in,2,77409,Admin_Error,19,Thursday
+2026-04-18,Kahawa Sukari,Liquor,Whiskey_750ml,4,96749,Theft,21,Friday
+2026-04-10,Kahawa Sukari,Skin Care,Bio_Oil,2,47606,Theft,15,Sunday
+2026-03-24,Kahawa Sukari,Household,Soap_Bar,2,1475,Damage,16,Tuesday
+2026-04-01,Kahawa Sukari,Skin Care,Bio_Oil,2,39276,Damage,20,Wednesday
+2026-04-21,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,32262,Supplier_Short,12,Sunday
+2026-04-26,Kahawa Sukari,Electronics,Microwave,4,2464,Theft,19,Tuesday
+2026-04-01,Kahawa Sukari,Household,Detergent_5L,1,579,Theft,20,Saturday
+2026-03-31,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,43044,Damage,20,Saturday
+2026-04-25,Kahawa Sukari,Household,Detergent_5L,1,2768,Admin_Error,15,Friday
+2026-04-18,Kahawa Sukari,Household,Tissue_12pack,4,2227,Damage,15,Friday
+2026-04-11,Kahawa Sukari,Skin Care,Face_Cream,3,63190,Admin_Error,18,Saturday
+2026-03-08,Kahawa Sukari,Electronics,Headphones,3,2840,Supplier_Short,15,Thursday
+2026-03-02,Kahawa Sukari,Skin Care,Body_Lotion,2,27666,Theft,12,Wednesday
+2026-03-15,Kahawa Sukari,Household,Soap_Bar,1,2478,Damage,17,Friday
+2026-03-05,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,37662,Spoilage,16,Tuesday
+2026-03-16,Kahawa Sukari,Groceries,Sugar_2kg,1,979,Theft,9,Friday
+2026-03-09,Kahawa Sukari,Electronics,Headphones,3,3319,Damage,14,Friday
+2026-04-20,Kahawa Sukari,Household,Soap_Bar,3,1951,Spoilage,12,Tuesday
+2026-03-07,Kahawa Sukari,Liquor,Wine_750ml,2,2931,Damage,15,Monday
+2026-03-30,Kahawa Sukari,Liquor,Wine_750ml,3,1770,Spoilage,8,Thursday
+2026-04-16,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,62716,Spoilage,21,Thursday
+2026-03-13,Kahawa Sukari,Electronics,TV_43in,2,57992,Damage,12,Tuesday
+2026-03-12,Kahawa Sukari,Household,Tissue_12pack,3,702,Damage,21,Thursday
+2026-04-29,Kahawa Sukari,Electronics,Headphones,3,3042,Damage,16,Sunday
+2026-03-04,Kahawa Sukari,Groceries,Rice_5kg,2,1238,Supplier_Short,17,Monday
+2026-04-24,Kahawa Sukari,Household,Detergent_5L,3,3139,Theft,20,Sunday
+2026-03-31,Kahawa Sukari,Skin Care,Body_Lotion,1,63702,Admin_Error,14,Thursday
+2026-03-25,Kahawa Sukari,Skin Care,Sunscreen,4,56523,Theft,20,Tuesday
+2026-04-20,Kahawa Sukari,Groceries,Rice_5kg,1,2123,Admin_Error,21,Sunday
+2026-04-16,Kahawa Sukari,Liquor,Wine_750ml,3,2478,Spoilage,20,Saturday
+2026-03-13,Kahawa Sukari,Household,Soap_Bar,4,3442,Spoilage,20,Tuesday
+2026-04-17,Kahawa Sukari,Electronics,Microwave,3,2772,Theft,14,Friday
+2026-03-04,Kahawa Sukari,Household,Detergent_5L,2,3357,Admin_Error,19,Monday
+2026-04-03,Kahawa Sukari,Household,Tissue_12pack,2,2929,Supplier_Short,20,Sunday
+2026-04-24,Kahawa Sukari,Skin Care,Bio_Oil,2,64080,Damage,12,Monday
+2026-04-13,Kahawa Sukari,Skin Care,Bio_Oil,4,44467,Damage,19,Monday
+2026-03-16,Kahawa Sukari,Skin Care,Sunscreen,2,18627,Theft,11,Friday
+2026-03-06,Kahawa Sukari,Household,Soap_Bar,4,2181,Theft,18,Friday
+2026-04-03,Kahawa Sukari,Liquor,Vodka_750ml,4,1729,Supplier_Short,14,Friday
+2026-04-15,Kahawa Sukari,Electronics,Blender,2,1696,Damage,14,Saturday
+2026-03-09,Kahawa Sukari,Electronics,Microwave,1,3496,Admin_Error,8,Thursday
+2026-04-29,Kahawa Sukari,Electronics,Headphones,1,1506,Admin_Error,21,Sunday
+2026-04-06,Kahawa Sukari,Groceries,Brookside_Milk_500ml,1,97177,Damage,20,Friday
+2026-03-17,Kahawa Sukari,Groceries,Brookside_Milk_500ml,2,24474,Admin_Error,14,Friday
+2026-03-24,Kahawa Sukari,Skin Care,Face_Cream,1,36959,Theft,18,Tuesday
+2026-04-04,Kahawa Sukari,Electronics,Microwave,1,517,Spoilage,12,Sunday
+2026-04-29,Kahawa Sukari,Electronics,TV_43in,4,18545,Supplier_Short,19,Wednesday
+2026-04-26,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,39766,Admin_Error,18,Monday
+2026-04-08,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,66087,Admin_Error,15,Wednesday
+2026-04-10,Kahawa Sukari,Skin Care,Face_Cream,4,61576,Theft,17,Saturday
+2026-03-04,Kahawa Sukari,Electronics,Headphones,3,1491,Admin_Error,21,Sunday
+2026-03-01,Kahawa Sukari,Groceries,Rice_5kg,1,3384,Admin_Error,12,Monday
+2026-04-17,Kahawa Sukari,Electronics,Microwave,3,3199,Admin_Error,8,Tuesday
+2026-03-01,Kahawa Sukari,Liquor,Vodka_750ml,2,2360,Spoilage,9,Friday
+2026-03-03,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,62323,Admin_Error,13,Friday
+2026-03-03,Kahawa Sukari,Electronics,Microwave,1,1959,Spoilage,8,Tuesday
+2026-03-14,Kahawa Sukari,Electronics,Blender,1,1861,Theft,9,Wednesday
+2026-04-05,Kahawa Sukari,Skin Care,Bio_Oil,4,53559,Theft,13,Sunday
+2026-04-25,Kahawa Sukari,Liquor,Vodka_750ml,3,2494,Damage,11,Tuesday
+2026-03-12,Kahawa Sukari,Skin Care,Body_Lotion,3,47970,Admin_Error,15,Monday
+2026-03-11,Kahawa Sukari,Electronics,Headphones,4,600,Damage,13,Wednesday
+2026-03-31,Kahawa Sukari,Groceries,Rice_5kg,2,3131,Theft,9,Sunday
+2026-03-20,Kahawa Sukari,Skin Care,Body_Lotion,3,38509,Admin_Error,18,Wednesday
+2026-03-13,Kahawa Sukari,Skin Care,Body_Lotion,1,30087,Theft,8,Saturday
+2026-03-05,Kahawa Sukari,Liquor,Wine_750ml,2,1347,Admin_Error,18,Sunday
+2026-04-13,Kahawa Sukari,Electronics,Blender,3,2711,Supplier_Short,20,Thursday
+2026-04-26,Kahawa Sukari,Household,Tissue_12pack,3,859,Theft,19,Monday
+2026-03-03,Kahawa Sukari,Electronics,Microwave,2,2155,Supplier_Short,10,Wednesday
+2026-04-20,Kahawa Sukari,Groceries,Rice_5kg,4,2186,Admin_Error,10,Saturday
+2026-03-08,Kahawa Sukari,Electronics,Headphones,4,3111,Supplier_Short,14,Friday
+2026-03-03,Kahawa Sukari,Liquor,Vodka_750ml,4,688,Damage,8,Wednesday
+2026-04-04,Kahawa Sukari,Liquor,Whiskey_750ml,2,76295,Supplier_Short,14,Sunday
+2026-04-30,Kahawa Sukari,Skin Care,Face_Cream,3,26111,Admin_Error,8,Monday
+2026-04-27,Kahawa Sukari,Electronics,Blender,3,2720,Theft,9,Saturday
+2026-03-26,Kahawa Sukari,Electronics,Blender,2,1638,Spoilage,21,Wednesday
+2026-04-12,Kahawa Sukari,Electronics,Microwave,4,1834,Damage,14,Thursday
+2026-04-06,Kahawa Sukari,Liquor,Vodka_750ml,4,2391,Damage,17,Friday
+2026-03-01,Kahawa Sukari,Electronics,Headphones,4,1216,Supplier_Short,11,Sunday
+2026-04-20,Kahawa Sukari,Electronics,Blender,1,1080,Damage,9,Thursday
+2026-03-29,Kahawa Sukari,Household,Soap_Bar,4,1527,Admin_Error,21,Thursday
+2026-03-31,Kahawa Sukari,Liquor,Vodka_750ml,4,652,Damage,12,Friday
+2026-04-12,Kahawa Sukari,Skin Care,Bio_Oil,1,22158,Theft,16,Friday
+2026-04-30,Kahawa Sukari,Household,Tissue_12pack,4,3370,Theft,10,Sunday
+2026-03-13,Kahawa Sukari,Skin Care,Face_Cream,4,16154,Theft,11,Sunday
+2026-03-31,Kahawa Sukari,Skin Care,Bio_Oil,3,27183,Theft,11,Tuesday
+2026-04-26,Kahawa Sukari,Household,Detergent_5L,4,1848,Spoilage,15,Thursday
+2026-03-26,Kahawa Sukari,Household,Detergent_5L,4,1645,Spoilage,15,Thursday
+2026-04-25,Kahawa Sukari,Skin Care,Body_Lotion,1,63354,Theft,21,Sunday
+2026-04-21,Kahawa Sukari,Groceries,Rice_5kg,1,298,Damage,16,Tuesday
+2026-03-16,Kahawa Sukari,Household,Tissue_12pack,2,7270,Theft,21,Friday
+2026-03-30,Kahawa Sukari,Groceries,Rice_5kg,4,3069,Damage,10,Sunday
+2026-04-30,Kahawa Sukari,Household,Soap_Bar,4,1156,Supplier_Short,16,Wednesday
+2026-04-23,Kahawa Sukari,Liquor,Vodka_750ml,1,360,Supplier_Short,11,Thursday
+2026-04-25,Kahawa Sukari,Household,Tissue_12pack,4,597,Damage,12,Saturday
+2026-03-16,Kahawa Sukari,Liquor,Wine_750ml,3,1727,Admin_Error,15,Sunday
+2026-03-29,Kahawa Sukari,Electronics,Headphones,4,1418,Damage,8,Wednesday
+2026-03-22,Kahawa Sukari,Groceries,Sugar_2kg,3,3304,Damage,19,Wednesday
+2026-03-15,Kahawa Sukari,Electronics,TV_43in,3,45818,Damage,13,Tuesday
+2026-03-14,Kahawa Sukari,Liquor,Vodka_750ml,2,1245,Damage,21,Saturday
+2026-04-04,Kahawa Sukari,Groceries,Rice_5kg,1,2285,Spoilage,13,Wednesday
+2026-04-23,Kahawa Sukari,Liquor,Wine_750ml,4,762,Theft,13,Tuesday
+2026-03-02,Kahawa Sukari,Liquor,Wine_750ml,1,2274,Supplier_Short,9,Saturday
+2026-04-30,Kahawa Sukari,Household,Tissue_12pack,4,997,Spoilage,8,Monday
+2026-04-27,Kahawa Sukari,Electronics,Blender,1,3126,Spoilage,8,Sunday
+2026-04-08,Kahawa Sukari,Liquor,Vodka_750ml,4,3267,Supplier_Short,20,Sunday
+2026-03-28,Kahawa Sukari,Skin Care,Sunscreen,3,60714,Theft,11,Wednesday
+2026-04-12,Kahawa Sukari,Liquor,Whiskey_750ml,4,78744,Spoilage,19,Wednesday
+2026-03-30,Kahawa Sukari,Liquor,Vodka_750ml,2,2405,Damage,20,Sunday
+2026-04-06,Kahawa Sukari,Skin Care,Bio_Oil,3,51212,Admin_Error,13,Friday
+2026-04-25,Kahawa Sukari,Groceries,Brookside_Milk_500ml,1,47635,Damage,16,Tuesday
+2026-03-25,Kahawa Sukari,Liquor,Whiskey_750ml,1,23711,Theft,20,Wednesday
+2026-03-22,Kahawa Sukari,Electronics,Microwave,3,501,Spoilage,12,Wednesday
+2026-04-23,Kahawa Sukari,Liquor,Wine_750ml,1,3370,Spoilage,19,Wednesday
+2026-04-04,Kahawa Sukari,Groceries,Rice_5kg,1,1339,Theft,20,Saturday
+2026-03-05,Kahawa Sukari,Groceries,Sugar_2kg,1,3175,Damage,14,Saturday
+2026-04-23,Kahawa Sukari,Groceries,Brookside_Milk_500ml,1,34778,Admin_Error,9,Tuesday
+2026-03-31,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,37745,Damage,13,Tuesday
+2026-03-17,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,56885,Spoilage,15,Saturday
+2026-04-17,Kahawa Sukari,Electronics,Microwave,2,3101,Supplier_Short,14,Friday
+2026-04-07,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,61958,Admin_Error,18,Monday
+2026-04-28,Kahawa Sukari,Groceries,Sugar_2kg,1,1609,Supplier_Short,17,Saturday
+2026-04-07,Kahawa Sukari,Liquor,Wine_750ml,1,3375,Damage,8,Monday
+2026-04-13,Kahawa Sukari,Skin Care,Bio_Oil,1,27533,Theft,14,Sunday
+2026-03-03,Kahawa Sukari,Household,Detergent_5L,2,1905,Supplier_Short,14,Sunday
+2026-04-02,Kahawa Sukari,Electronics,Headphones,1,2090,Admin_Error,9,Monday
+2026-04-01,Kahawa Sukari,Electronics,TV_43in,4,15647,Spoilage,20,Sunday
+2026-04-27,Kahawa Sukari,Groceries,Rice_5kg,1,1729,Admin_Error,14,Saturday
+2026-03-12,Kahawa Sukari,Liquor,Vodka_750ml,4,235,Damage,20,Thursday
+2026-04-21,Kahawa Sukari,Household,Soap_Bar,4,2568,Admin_Error,15,Friday
+2026-04-22,Kahawa Sukari,Household,Tissue_12pack,4,599,Spoilage,21,Thursday
+2026-03-16,Kahawa Sukari,Household,Tissue_12pack,3,2106,Admin_Error,14,Sunday
+2026-04-18,Kahawa Sukari,Groceries,Sugar_2kg,2,1315,Spoilage,9,Tuesday
+2026-03-25,Kahawa Sukari,Liquor,Vodka_750ml,3,2023,Supplier_Short,14,Saturday
+2026-03-21,Kahawa Sukari,Electronics,TV_43in,1,57921,Spoilage,21,Sunday
+2026-04-21,Kahawa Sukari,Skin Care,Sunscreen,2,37677,Theft,17,Wednesday
+2026-04-14,Kahawa Sukari,Electronics,Blender,2,2552,Admin_Error,11,Friday
+2026-03-06,Kahawa Sukari,Electronics,TV_43in,3,58006,Supplier_Short,13,Tuesday
+2026-04-18,Kahawa Sukari,Skin Care,Sunscreen,1,17491,Admin_Error,12,Friday
+2026-04-20,Kahawa Sukari,Skin Care,Sunscreen,4,29599,Admin_Error,12,Thursday
+2026-03-26,Kahawa Sukari,Groceries,Brookside_Milk_500ml,1,18051,Supplier_Short,19,Tuesday
+2026-03-31,Kahawa Sukari,Skin Care,Face_Cream,2,36606,Damage,11,Wednesday
+2026-04-17,Kahawa Sukari,Household,Soap_Bar,2,1076,Admin_Error,11,Thursday
+2026-03-30,Kahawa Sukari,Household,Tissue_12pack,3,246,Admin_Error,10,Saturday
+2026-03-08,Kahawa Sukari,Electronics,Blender,4,3183,Admin_Error,11,Tuesday
+2026-04-04,Kahawa Sukari,Skin Care,Face_Cream,4,43940,Theft,9,Saturday
+2026-03-31,Kahawa Sukari,Skin Care,Body_Lotion,3,61185,Theft,21,Saturday
+2026-03-13,Kahawa Sukari,Electronics,Blender,3,856,Theft,15,Sunday
+2026-03-20,Kahawa Sukari,Electronics,Microwave,2,2010,Admin_Error,19,Tuesday
+2026-03-04,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,30945,Admin_Error,12,Monday
+2026-04-25,Kahawa Sukari,Household,Tissue_12pack,3,316,Damage,21,Saturday
+2026-03-19,Kahawa Sukari,Liquor,Whiskey_750ml,4,6150,Theft,16,Friday
+2026-03-12,Kahawa Sukari,Liquor,Wine_750ml,2,1212,Spoilage,8,Wednesday
+2026-04-22,Kahawa Sukari,Groceries,Sugar_2kg,3,833,Spoilage,8,Monday
+2026-04-06,Kahawa Sukari,Groceries,Rice_5kg,2,3049,Spoilage,21,Monday
+2026-04-06,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,25056,Damage,15,Sunday
+2026-04-05,Kahawa Sukari,Electronics,TV_43in,3,8343,Damage,20,Monday
+2026-04-09,Kahawa Sukari,Liquor,Vodka_750ml,2,903,Supplier_Short,12,Sunday
+2026-03-20,Kahawa Sukari,Skin Care,Sunscreen,2,23130,Admin_Error,19,Thursday
+2026-04-09,Kahawa Sukari,Household,Tissue_12pack,1,1879,Admin_Error,10,Friday
+2026-03-14,Kahawa Sukari,Groceries,Brookside_Milk_500ml,1,22253,Admin_Error,16,Saturday
+2026-03-12,Kahawa Sukari,Electronics,TV_43in,1,66389,Damage,19,Tuesday
+2026-03-27,Kahawa Sukari,Household,Detergent_5L,2,3318,Damage,8,Monday
+2026-03-19,Kahawa Sukari,Liquor,Vodka_750ml,4,1973,Supplier_Short,21,Thursday
+2026-03-19,Kahawa Sukari,Groceries,Cooking_Oil_5L,4,34124,Admin_Error,19,Saturday
+2026-04-20,Kahawa Sukari,Liquor,Whiskey_750ml,3,40247,Damage,12,Wednesday
+2026-03-08,Kahawa Sukari,Household,Soap_Bar,2,1835,Damage,8,Thursday
+2026-04-22,Kahawa Sukari,Household,Detergent_5L,3,1957,Damage,12,Wednesday
+2026-04-20,Kahawa Sukari,Skin Care,Bio_Oil,2,53649,Theft,17,Tuesday
+2026-03-30,Kahawa Sukari,Electronics,Blender,4,3371,Spoilage,9,Monday
+2026-04-04,Kahawa Sukari,Electronics,Headphones,2,3494,Admin_Error,17,Friday
+2026-03-03,Kahawa Sukari,Liquor,Wine_750ml,4,2689,Theft,8,Friday
+2026-03-17,Kahawa Sukari,Liquor,Vodka_750ml,4,3560,Theft,20,Friday
+2026-04-23,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,42663,Admin_Error,15,Saturday
+2026-04-13,Kahawa Sukari,Household,Soap_Bar,1,1982,Theft,9,Sunday
+2026-04-03,Kahawa Sukari,Electronics,TV_43in,4,54115,Damage,18,Thursday
+2026-03-28,Kahawa Sukari,Liquor,Wine_750ml,2,4340,Theft,19,Friday
+2026-03-27,Kahawa Sukari,Liquor,Whiskey_750ml,1,16938,Spoilage,19,Wednesday
+2026-03-11,Kahawa Sukari,Electronics,Blender,3,1156,Theft,10,Sunday
+2026-04-12,Kahawa Sukari,Electronics,Headphones,3,1836,Spoilage,19,Wednesday
+2026-03-06,Kahawa Sukari,Liquor,Vodka_750ml,2,1640,Theft,15,Thursday
+2026-04-19,Kahawa Sukari,Electronics,Blender,1,1266,Admin_Error,19,Monday
+2026-04-25,Kahawa Sukari,Liquor,Vodka_750ml,3,2644,Theft,19,Saturday
+2026-03-13,Kahawa Sukari,Household,Tissue_12pack,3,2746,Spoilage,9,Monday
+2026-04-01,Kahawa Sukari,Household,Tissue_12pack,2,2974,Supplier_Short,8,Sunday
+2026-04-05,Kahawa Sukari,Liquor,Whiskey_750ml,2,30351,Damage,20,Wednesday
+2026-04-01,Kahawa Sukari,Skin Care,Face_Cream,2,30305,Admin_Error,17,Saturday
+2026-03-11,Kahawa Sukari,Groceries,Brookside_Milk_500ml,1,15417,Admin_Error,10,Saturday
+2026-03-06,Kahawa Sukari,Electronics,TV_43in,2,25358,Supplier_Short,11,Thursday
+2026-04-11,Kahawa Sukari,Skin Care,Bio_Oil,1,39052,Admin_Error,9,Monday
+2026-04-15,Kahawa Sukari,Skin Care,Sunscreen,4,60577,Theft,20,Friday
+2026-03-16,Kahawa Sukari,Electronics,Headphones,1,928,Spoilage,12,Thursday
+2026-03-13,Kahawa Sukari,Liquor,Vodka_750ml,2,3008,Damage,11,Thursday
+2026-03-05,Kahawa Sukari,Household,Soap_Bar,4,2092,Damage,16,Sunday
+2026-04-02,Kahawa Sukari,Electronics,Headphones,1,2439,Admin_Error,10,Sunday
+2026-03-20,Kahawa Sukari,Electronics,TV_43in,1,22955,Admin_Error,9,Saturday
+2026-03-10,Kahawa Sukari,Household,Soap_Bar,3,2343,Spoilage,15,Sunday
+2026-03-22,Kahawa Sukari,Liquor,Vodka_750ml,4,3461,Spoilage,12,Wednesday
+2026-04-29,Kahawa Sukari,Household,Soap_Bar,1,1748,Spoilage,14,Thursday
+2026-03-25,Kahawa Sukari,Electronics,Microwave,2,3114,Damage,16,Friday
+2026-04-17,Kahawa Sukari,Skin Care,Sunscreen,2,61352,Theft,8,Wednesday
+2026-04-12,Kahawa Sukari,Liquor,Vodka_750ml,2,795,Spoilage,16,Thursday
+2026-04-02,Kahawa Sukari,Skin Care,Sunscreen,1,15698,Theft,10,Tuesday
+2026-04-24,Kahawa Sukari,Household,Tissue_12pack,1,1835,Theft,19,Sunday
+2026-03-01,Kahawa Sukari,Liquor,Whiskey_750ml,4,77936,Supplier_Short,10,Thursday
+2026-03-31,Kahawa Sukari,Skin Care,Sunscreen,4,19360,Theft,14,Monday
+2026-03-26,Kahawa Sukari,Electronics,Blender,3,917,Supplier_Short,11,Saturday
+2026-03-21,Kahawa Sukari,Groceries,Sugar_2kg,1,1590,Supplier_Short,12,Thursday
+2026-03-05,Kahawa Sukari,Liquor,Vodka_750ml,1,7750,Theft,19,Friday
+2026-03-06,Kahawa Sukari,Skin Care,Face_Cream,1,46667,Theft,18,Saturday
+2026-03-11,Kahawa Sukari,Liquor,Whiskey_750ml,3,65566,Theft,16,Thursday
+2026-04-20,Kahawa Sukari,Electronics,TV_43in,3,26545,Theft,17,Wednesday
+2026-03-28,Kahawa Sukari,Groceries,Sugar_2kg,1,2645,Admin_Error,17,Wednesday
+2026-04-06,Kahawa Sukari,Skin Care,Body_Lotion,1,38714,Damage,14,Thursday
+2026-04-09,Kahawa Sukari,Skin Care,Body_Lotion,2,52098,Theft,18,Monday
+2026-04-28,Kahawa Sukari,Liquor,Vodka_750ml,1,950,Damage,19,Thursday
+2026-04-10,Kahawa Sukari,Household,Detergent_5L,4,3345,Damage,17,Thursday
+2026-03-01,Kahawa Sukari,Electronics,Headphones,2,3160,Admin_Error,20,Saturday
+2026-03-05,Kahawa Sukari,Liquor,Wine_750ml,1,1742,Supplier_Short,21,Tuesday
+2026-04-10,Kahawa Sukari,Liquor,Wine_750ml,1,1391,Supplier_Short,17,Wednesday
+2026-04-24,Kahawa Sukari,Liquor,Vodka_750ml,2,3193,Admin_Error,18,Thursday
+2026-03-31,Kahawa Sukari,Electronics,Microwave,1,1417,Spoilage,12,Sunday
+2026-03-23,Kahawa Sukari,Groceries,Cooking_Oil_5L,4,59693,Spoilage,10,Friday
+2026-04-23,Kahawa Sukari,Household,Tissue_12pack,1,1719,Admin_Error,20,Monday
+2026-04-25,Kahawa Sukari,Liquor,Wine_750ml,1,1565,Theft,11,Friday
+2026-04-21,Kahawa Sukari,Groceries,Rice_5kg,1,710,Admin_Error,14,Sunday
+2026-03-13,Kahawa Sukari,Skin Care,Face_Cream,4,16324,Theft,11,Saturday
+2026-03-07,Kahawa Sukari,Household,Tissue_12pack,3,3341,Damage,19,Saturday
+2026-04-07,Kahawa Sukari,Groceries,Sugar_2kg,4,2010,Spoilage,20,Monday
+2026-03-21,Kahawa Sukari,Electronics,Microwave,3,1405,Theft,14,Wednesday
+2026-04-20,Kahawa Sukari,Liquor,Whiskey_750ml,3,30289,Damage,17,Tuesday
+2026-04-28,Kahawa Sukari,Household,Tissue_12pack,3,547,Supplier_Short,21,Friday
+2026-04-30,Kahawa Sukari,Electronics,Microwave,2,372,Admin_Error,20,Sunday
+2026-03-08,Kahawa Sukari,Liquor,Wine_750ml,2,1443,Admin_Error,21,Sunday
+2026-03-15,Kahawa Sukari,Liquor,Whiskey_750ml,4,35355,Damage,19,Sunday
+2026-04-20,Kahawa Sukari,Liquor,Vodka_750ml,3,1028,Admin_Error,16,Monday
+2026-03-08,Kahawa Sukari,Liquor,Whiskey_750ml,1,57224,Admin_Error,10,Friday
+2026-03-25,Kahawa Sukari,Liquor,Wine_750ml,1,5968,Theft,21,Friday
+2026-03-02,Kahawa Sukari,Electronics,TV_43in,4,33016,Damage,16,Thursday
+2026-03-15,Kahawa Sukari,Household,Soap_Bar,1,1128,Admin_Error,13,Friday
+2026-03-27,Kahawa Sukari,Groceries,Rice_5kg,4,333,Admin_Error,17,Saturday
+2026-03-20,Kahawa Sukari,Groceries,Cooking_Oil_5L,3,27700,Theft,20,Monday
+2026-04-26,Kahawa Sukari,Liquor,Whiskey_750ml,1,25559,Theft,13,Tuesday
+2026-03-24,Kahawa Sukari,Household,Detergent_5L,1,402,Spoilage,19,Thursday
+2026-04-16,Kahawa Sukari,Household,Tissue_12pack,3,1899,Supplier_Short,10,Saturday
+2026-04-01,Kahawa Sukari,Skin Care,Sunscreen,2,28843,Theft,16,Sunday
+2026-04-14,Kahawa Sukari,Household,Tissue_12pack,1,2294,Admin_Error,16,Monday
+2026-04-30,Kahawa Sukari,Electronics,Microwave,1,1749,Spoilage,8,Thursday
+2026-03-24,Kahawa Sukari,Skin Care,Face_Cream,3,59597,Theft,13,Saturday
+2026-03-26,Kahawa Sukari,Household,Soap_Bar,1,2903,Admin_Error,14,Monday
+2026-04-22,Kahawa Sukari,Electronics,Microwave,2,3218,Theft,19,Sunday
+2026-04-10,Kahawa Sukari,Liquor,Whiskey_750ml,2,15975,Damage,15,Saturday
+2026-03-22,Kahawa Sukari,Household,Detergent_5L,4,3219,Theft,15,Sunday
+2026-03-05,Kahawa Sukari,Skin Care,Body_Lotion,4,44703,Damage,17,Tuesday
+2026-04-22,Kahawa Sukari,Household,Detergent_5L,4,2923,Supplier_Short,17,Tuesday
+2026-04-27,Kahawa Sukari,Skin Care,Face_Cream,2,34129,Theft,19,Sunday
+2026-03-10,Kahawa Sukari,Household,Detergent_5L,1,739,Admin_Error,19,Sunday
+2026-04-12,Kahawa Sukari,Skin Care,Face_Cream,2,19835,Theft,18,Monday
+2026-04-20,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,43088,Theft,8,Wednesday
+2026-03-17,Kahawa Sukari,Skin Care,Face_Cream,1,50547,Theft,20,Tuesday
+2026-03-08,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,39349,Spoilage,10,Friday
+2026-03-24,Kahawa Sukari,Groceries,Rice_5kg,3,589,Spoilage,9,Sunday
+2026-04-02,Kahawa Sukari,Household,Soap_Bar,3,455,Theft,12,Thursday
+2026-03-30,Kahawa Sukari,Skin Care,Bio_Oil,2,25136,Damage,9,Wednesday
+2026-03-26,Kahawa Sukari,Groceries,Brookside_Milk_500ml,2,34255,Damage,21,Sunday
+2026-04-15,Kahawa Sukari,Liquor,Vodka_750ml,3,1076,Theft,12,Thursday
+2026-04-08,Kahawa Sukari,Liquor,Whiskey_750ml,2,6015,Theft,8,Wednesday
+2026-04-09,Kahawa Sukari,Skin Care,Bio_Oil,4,42712,Theft,9,Wednesday
+2026-04-08,Kahawa Sukari,Household,Soap_Bar,3,1462,Admin_Error,8,Thursday
+2026-04-08,Kahawa Sukari,Household,Tissue_12pack,3,1052,Spoilage,17,Friday
+2026-04-11,Kahawa Sukari,Liquor,Whiskey_750ml,3,67680,Theft,13,Sunday
+2026-03-29,Kahawa Sukari,Household,Soap_Bar,1,3042,Damage,8,Thursday
+2026-03-30,Kahawa Sukari,Skin Care,Sunscreen,1,35384,Theft,9,Sunday
+2026-03-28,Kahawa Sukari,Liquor,Wine_750ml,1,3370,Theft,8,Wednesday
+2026-04-13,Kahawa Sukari,Electronics,Blender,4,3070,Admin_Error,13,Tuesday
+2026-03-06,Kahawa Sukari,Liquor,Whiskey_750ml,3,23384,Theft,12,Sunday
+2026-04-17,Kahawa Sukari,Groceries,Rice_5kg,3,1868,Theft,13,Saturday
+2026-04-07,Kahawa Sukari,Electronics,Microwave,1,1660,Supplier_Short,14,Monday
+2026-03-08,Kahawa Sukari,Household,Soap_Bar,2,2924,Admin_Error,17,Saturday
+2026-04-28,Kahawa Sukari,Liquor,Wine_750ml,1,282,Spoilage,8,Sunday
+2026-03-23,Kahawa Sukari,Groceries,Sugar_2kg,2,3349,Supplier_Short,16,Wednesday
+2026-03-31,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,39816,Damage,10,Saturday
+2026-04-05,Kahawa Sukari,Skin Care,Bio_Oil,2,32100,Theft,11,Sunday
+2026-03-15,Kahawa Sukari,Electronics,TV_43in,4,75080,Admin_Error,8,Friday
+2026-04-13,Kahawa Sukari,Liquor,Vodka_750ml,4,2023,Supplier_Short,9,Friday
+2026-04-23,Kahawa Sukari,Household,Detergent_5L,3,2342,Supplier_Short,15,Saturday
+2026-04-14,Kahawa Sukari,Electronics,TV_43in,2,19489,Damage,17,Wednesday
+2026-03-12,Kahawa Sukari,Electronics,Blender,3,637,Admin_Error,13,Monday
+2026-04-17,Kahawa Sukari,Skin Care,Sunscreen,4,43538,Theft,9,Tuesday
+2026-03-27,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,57944,Admin_Error,13,Thursday
+2026-03-20,Kahawa Sukari,Liquor,Wine_750ml,2,588,Damage,21,Wednesday
+2026-03-11,Kahawa Sukari,Electronics,TV_43in,1,42626,Theft,16,Tuesday
+2026-03-29,Kahawa Sukari,Household,Detergent_5L,3,823,Theft,14,Wednesday
+2026-03-27,Kahawa Sukari,Liquor,Wine_750ml,2,1452,Supplier_Short,12,Thursday
+2026-03-23,Kahawa Sukari,Electronics,Microwave,3,777,Supplier_Short,18,Monday
+2026-04-13,Kahawa Sukari,Liquor,Whiskey_750ml,4,64494,Admin_Error,13,Saturday
+2026-03-20,Kahawa Sukari,Household,Tissue_12pack,2,963,Supplier_Short,9,Saturday
+2026-03-04,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,60393,Spoilage,9,Friday
+2026-04-19,Kahawa Sukari,Groceries,Cooking_Oil_5L,3,30934,Admin_Error,18,Tuesday
+2026-03-08,Kahawa Sukari,Skin Care,Face_Cream,1,25209,Theft,11,Wednesday
+2026-03-09,Kahawa Sukari,Groceries,Rice_5kg,4,365,Spoilage,8,Tuesday
+2026-04-05,Kahawa Sukari,Liquor,Vodka_750ml,2,3583,Theft,19,Friday
+2026-04-17,Kahawa Sukari,Electronics,TV_43in,3,75390,Spoilage,17,Sunday
+2026-04-28,Kahawa Sukari,Groceries,Rice_5kg,1,2328,Theft,12,Thursday
+2026-04-06,Kahawa Sukari,Groceries,Sugar_2kg,4,3147,Supplier_Short,17,Thursday
+2026-03-08,Kahawa Sukari,Liquor,Vodka_750ml,4,1553,Spoilage,8,Wednesday
+2026-04-21,Kahawa Sukari,Liquor,Whiskey_750ml,1,60123,Admin_Error,15,Tuesday
+2026-03-28,Kahawa Sukari,Household,Tissue_12pack,1,2793,Admin_Error,13,Monday
+2026-03-26,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,24308,Spoilage,20,Friday
+2026-03-20,Kahawa Sukari,Household,Detergent_5L,3,242,Spoilage,18,Sunday
+2026-03-11,Kahawa Sukari,Electronics,Microwave,3,2358,Admin_Error,16,Sunday
+2026-03-23,Kahawa Sukari,Groceries,Brookside_Milk_500ml,2,55118,Admin_Error,18,Sunday
+2026-03-10,Kahawa Sukari,Electronics,Microwave,4,2135,Damage,15,Monday
+2026-03-10,Kahawa Sukari,Electronics,Microwave,4,559,Damage,11,Friday
+2026-04-18,Kahawa Sukari,Groceries,Cooking_Oil_5L,4,46240,Spoilage,10,Thursday
+2026-04-29,Kahawa Sukari,Household,Soap_Bar,1,3466,Spoilage,18,Saturday
+2026-04-25,Kahawa Sukari,Household,Soap_Bar,1,871,Supplier_Short,9,Wednesday
+2026-03-31,Kahawa Sukari,Electronics,Microwave,3,2881,Spoilage,10,Monday
+2026-03-18,Kahawa Sukari,Liquor,Vodka_750ml,4,1228,Admin_Error,9,Sunday
+2026-03-05,Kahawa Sukari,Household,Detergent_5L,2,2026,Admin_Error,20,Friday
+2026-03-04,Kahawa Sukari,Electronics,Headphones,1,1628,Spoilage,13,Monday
+2026-04-25,Kahawa Sukari,Electronics,Blender,4,2892,Theft,16,Saturday
+2026-04-05,Kahawa Sukari,Groceries,Rice_5kg,2,5963,Spoilage,21,Friday
+2026-03-13,Kahawa Sukari,Groceries,Rice_5kg,2,2168,Supplier_Short,21,Saturday
+2026-03-04,Kahawa Sukari,Electronics,Headphones,1,2036,Supplier_Short,18,Tuesday
+2026-03-06,Kahawa Sukari,Liquor,Whiskey_750ml,3,28321,Admin_Error,16,Saturday
+2026-03-16,Kahawa Sukari,Household,Soap_Bar,3,1344,Damage,13,Monday
+2026-04-09,Kahawa Sukari,Liquor,Wine_750ml,3,2941,Theft,21,Friday
+2026-03-25,Kahawa Sukari,Skin Care,Face_Cream,1,34262,Theft,20,Wednesday
+2026-04-20,Kahawa Sukari,Liquor,Wine_750ml,1,1249,Supplier_Short,11,Monday
+2026-04-05,Kahawa Sukari,Electronics,TV_43in,3,64399,Admin_Error,8,Monday
+2026-04-24,Kahawa Sukari,Liquor,Wine_750ml,3,1476,Admin_Error,11,Saturday
+2026-04-07,Kahawa Sukari,Household,Detergent_5L,2,502,Admin_Error,15,Monday
+2026-04-14,Kahawa Sukari,Skin Care,Face_Cream,4,23717,Theft,17,Saturday
+2026-04-30,Kahawa Sukari,Liquor,Whiskey_750ml,4,78686,Supplier_Short,21,Saturday
+2026-04-11,Kahawa Sukari,Groceries,Sugar_2kg,2,564,Supplier_Short,17,Thursday
+2026-04-11,Kahawa Sukari,Electronics,Microwave,3,2946,Supplier_Short,15,Monday
+2026-03-24,Kahawa Sukari,Liquor,Vodka_750ml,3,1230,Admin_Error,10,Monday
+2026-04-30,Kahawa Sukari,Electronics,Microwave,3,1118,Damage,21,Wednesday
+2026-03-10,Kahawa Sukari,Liquor,Whiskey_750ml,1,43638,Damage,19,Tuesday
+2026-04-19,Kahawa Sukari,Groceries,Sugar_2kg,3,3053,Theft,10,Friday
+2026-04-12,Kahawa Sukari,Household,Soap_Bar,3,3286,Supplier_Short,16,Monday
+2026-03-10,Kahawa Sukari,Electronics,Microwave,2,684,Supplier_Short,19,Thursday
+2026-04-27,Kahawa Sukari,Skin Care,Body_Lotion,1,16062,Damage,16,Sunday
+2026-03-24,Kahawa Sukari,Skin Care,Sunscreen,2,44926,Theft,13,Thursday
+2026-04-18,Kahawa Sukari,Skin Care,Sunscreen,1,64277,Damage,19,Wednesday
+2026-03-20,Kahawa Sukari,Liquor,Whiskey_750ml,1,8596,Supplier_Short,11,Tuesday
+2026-04-30,Kahawa Sukari,Liquor,Whiskey_750ml,1,12561,Admin_Error,10,Saturday
+2026-03-19,Kahawa Sukari,Household,Tissue_12pack,3,2356,Spoilage,9,Sunday
+2026-03-11,Kahawa Sukari,Liquor,Vodka_750ml,2,2475,Supplier_Short,13,Thursday
+2026-04-11,Kahawa Sukari,Skin Care,Body_Lotion,4,27910,Theft,15,Monday
+2026-04-15,Kahawa Sukari,Liquor,Wine_750ml,2,2995,Supplier_Short,10,Monday
+2026-04-18,Kahawa Sukari,Household,Detergent_5L,2,2672,Admin_Error,12,Monday
+2026-03-10,Kahawa Sukari,Skin Care,Face_Cream,4,34123,Admin_Error,17,Friday
+2026-03-29,Kahawa Sukari,Liquor,Whiskey_750ml,4,39529,Damage,18,Sunday
+2026-03-26,Kahawa Sukari,Electronics,TV_43in,1,22260,Spoilage,13,Monday
+2026-03-06,Kahawa Sukari,Household,Tissue_12pack,2,1512,Damage,12,Thursday
+2026-04-29,Kahawa Sukari,Electronics,Microwave,2,2524,Theft,13,Wednesday
+2026-03-03,Kahawa Sukari,Groceries,Sugar_2kg,2,1726,Damage,11,Tuesday
+2026-04-15,Kahawa Sukari,Electronics,Headphones,2,3090,Damage,21,Sunday
+2026-04-27,Kahawa Sukari,Liquor,Wine_750ml,3,2597,Supplier_Short,15,Monday
+2026-04-23,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,28046,Supplier_Short,10,Tuesday
+2026-03-19,Kahawa Sukari,Skin Care,Sunscreen,1,50358,Theft,15,Sunday
+2026-03-16,Kahawa Sukari,Skin Care,Face_Cream,3,25787,Theft,15,Monday
+2026-03-05,Kahawa Sukari,Liquor,Vodka_750ml,4,205,Supplier_Short,9,Thursday
+2026-03-02,Kahawa Sukari,Groceries,Rice_5kg,4,1955,Supplier_Short,18,Friday
+2026-03-10,Kahawa Sukari,Household,Soap_Bar,2,2070,Damage,13,Saturday
+2026-03-23,Kahawa Sukari,Electronics,Headphones,4,7194,Theft,21,Friday
+2026-04-12,Kahawa Sukari,Skin Care,Sunscreen,2,62077,Theft,10,Saturday
+2026-04-04,Kahawa Sukari,Groceries,Sugar_2kg,3,1664,Theft,9,Friday
+2026-03-25,Kahawa Sukari,Household,Soap_Bar,2,2962,Supplier_Short,15,Monday
+2026-03-17,Kahawa Sukari,Liquor,Whiskey_750ml,4,51514,Spoilage,20,Wednesday
+2026-03-16,Kahawa Sukari,Groceries,Sugar_2kg,2,1868,Theft,13,Wednesday
+2026-03-23,Kahawa Sukari,Groceries,Sugar_2kg,3,1341,Damage,11,Monday
+2026-04-19,Kahawa Sukari,Household,Tissue_12pack,4,923,Damage,8,Sunday
+2026-03-12,Kahawa Sukari,Liquor,Vodka_750ml,3,312,Spoilage,19,Saturday
+2026-03-19,Kahawa Sukari,Skin Care,Bio_Oil,2,17048,Admin_Error,17,Monday
+2026-03-21,Kahawa Sukari,Skin Care,Bio_Oil,1,60375,Theft,13,Monday
+2026-03-17,Kahawa Sukari,Electronics,Headphones,3,2117,Supplier_Short,18,Thursday
+2026-04-25,Kahawa Sukari,Groceries,Cooking_Oil_5L,2,52362,Admin_Error,8,Wednesday
+2026-04-21,Kahawa Sukari,Groceries,Sugar_2kg,2,889,Admin_Error,15,Monday
+2026-03-29,Kahawa Sukari,Electronics,Headphones,2,460,Spoilage,14,Saturday
+2026-04-14,Kahawa Sukari,Liquor,Wine_750ml,1,2419,Damage,9,Thursday
+2026-04-21,Kahawa Sukari,Liquor,Wine_750ml,4,1391,Supplier_Short,9,Wednesday
+2026-04-08,Kahawa Sukari,Groceries,Rice_5kg,1,520,Theft,12,Thursday
+2026-03-06,Kahawa Sukari,Skin Care,Face_Cream,3,34216,Theft,16,Monday
+2026-04-08,Kahawa Sukari,Electronics,Blender,2,3158,Admin_Error,15,Thursday
+2026-03-29,Kahawa Sukari,Liquor,Whiskey_750ml,2,31614,Spoilage,10,Wednesday
+2026-03-18,Kahawa Sukari,Groceries,Sugar_2kg,1,1318,Supplier_Short,8,Thursday
+2026-04-02,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,46037,Damage,19,Wednesday
+2026-04-08,Kahawa Sukari,Skin Care,Bio_Oil,1,57929,Theft,21,Sunday
+2026-03-16,Kahawa Sukari,Liquor,Whiskey_750ml,1,13567,Damage,18,Monday
+2026-03-03,Kahawa Sukari,Electronics,Blender,3,2835,Spoilage,10,Friday
+2026-03-24,Kahawa Sukari,Household,Detergent_5L,4,2760,Spoilage,15,Wednesday
+2026-04-03,Kahawa Sukari,Liquor,Whiskey_750ml,4,48925,Supplier_Short,19,Tuesday
+2026-03-18,Kahawa Sukari,Electronics,Headphones,3,1572,Admin_Error,15,Saturday
+2026-03-12,Kahawa Sukari,Skin Care,Bio_Oil,2,56832,Theft,12,Saturday
+2026-03-08,Kahawa Sukari,Liquor,Vodka_750ml,3,4717,Theft,21,Friday
+2026-04-09,Kahawa Sukari,Electronics,Blender,1,924,Spoilage,12,Tuesday
+2026-03-09,Kahawa Sukari,Electronics,Headphones,2,3098,Damage,18,Monday
+2026-03-29,Kahawa Sukari,Groceries,Rice_5kg,1,2821,Damage,11,Saturday
+2026-03-05,Kahawa Sukari,Groceries,Sugar_2kg,1,1972,Admin_Error,17,Saturday
+2026-04-24,Kahawa Sukari,Household,Soap_Bar,4,2649,Admin_Error,15,Wednesday
+2026-03-15,Kahawa Sukari,Skin Care,Body_Lotion,2,24510,Theft,15,Friday
+2026-04-20,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,44711,Damage,10,Tuesday
+2026-04-06,Kahawa Sukari,Liquor,Whiskey_750ml,3,77101,Admin_Error,8,Friday
+2026-04-09,Kahawa Sukari,Electronics,Headphones,1,774,Supplier_Short,8,Tuesday
+2026-04-15,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,17192,Supplier_Short,8,Thursday
+2026-03-27,Kahawa Sukari,Liquor,Vodka_750ml,2,702,Spoilage,9,Sunday
+2026-04-11,Kahawa Sukari,Household,Detergent_5L,4,1020,Damage,15,Wednesday
+2026-04-03,Kahawa Sukari,Groceries,Rice_5kg,2,3310,Spoilage,10,Saturday
+2026-04-07,Kahawa Sukari,Electronics,Microwave,3,1869,Supplier_Short,10,Saturday
+2026-04-28,Kahawa Sukari,Skin Care,Body_Lotion,2,32586,Admin_Error,15,Friday
+2026-03-11,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,36951,Admin_Error,11,Wednesday
+2026-04-30,Kahawa Sukari,Skin Care,Face_Cream,4,20788,Theft,8,Wednesday
+2026-03-13,Kahawa Sukari,Household,Tissue_12pack,3,677,Theft,14,Wednesday
+2026-03-20,Kahawa Sukari,Household,Tissue_12pack,2,619,Damage,20,Saturday
+2026-04-11,Kahawa Sukari,Household,Soap_Bar,1,3035,Theft,20,Friday
+2026-04-09,Kahawa Sukari,Skin Care,Body_Lotion,1,47154,Theft,14,Saturday
+2026-04-22,Kahawa Sukari,Household,Tissue_12pack,2,1477,Supplier_Short,11,Monday
+2026-04-19,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,47265,Spoilage,12,Saturday
+2026-04-06,Kahawa Sukari,Household,Tissue_12pack,2,2065,Damage,8,Sunday
+2026-04-26,Kahawa Sukari,Liquor,Vodka_750ml,3,3053,Theft,20,Thursday
+2026-03-16,Kahawa Sukari,Household,Tissue_12pack,1,1014,Admin_Error,11,Thursday
+2026-04-14,Kahawa Sukari,Liquor,Wine_750ml,4,2463,Spoilage,11,Monday
+2026-03-31,Kahawa Sukari,Groceries,Cooking_Oil_5L,1,25103,Spoilage,12,Thursday
+2026-03-10,Kahawa Sukari,Liquor,Whiskey_750ml,4,19382,Admin_Error,11,Friday
+2026-03-09,Kahawa Sukari,Electronics,Blender,3,329,Admin_Error,18,Thursday
+2026-03-30,Kahawa Sukari,Electronics,TV_43in,4,44666,Admin_Error,11,Tuesday
+2026-03-10,Kahawa Sukari,Groceries,Sugar_2kg,3,993,Spoilage,18,Tuesday
+2026-04-25,Kahawa Sukari,Groceries,Brookside_Milk_500ml,3,49884,Supplier_Short,11,Thursday
+2026-04-27,Kahawa Sukari,Household,Tissue_12pack,2,2065,Damage,15,Sunday
+2026-03-21,Kahawa Sukari,Skin Care,Face_Cream,3,59165,Damage,15,Saturday
+2026-03-30,Kahawa Sukari,Skin Care,Body_Lotion,2,15814,Admin_Error,17,Friday
+2026-03-06,Kahawa Sukari,Liquor,Wine_750ml,2,562,Spoilage,19,Monday
+2026-03-14,Kahawa Sukari,Liquor,Vodka_750ml,2,2388,Spoilage,15,Tuesday
+2026-03-19,Kahawa Sukari,Household,Tissue_12pack,1,3481,Theft,16,Monday
+2026-04-04,Kahawa Sukari,Liquor,Vodka_750ml,3,1839,Spoilage,19,Wednesday
+2026-04-26,Kahawa Sukari,Groceries,Brookside_Milk_500ml,4,34915,Damage,19,Tuesday
+2026-03-03,Kahawa Sukari,Electronics,Blender,1,3255,Spoilage,11,Wednesday
+2026-03-13,Kahawa Sukari,Liquor,Whiskey_750ml,4,65279,Supplier_Short,12,Friday
+2026-04-02,Kahawa Sukari,Electronics,Blender,1,326,Theft,17,Thursday
+2026-04-09,Kahawa Sukari,Liquor,Vodka_750ml,1,803,Admin_Error,17,Sunday
+2026-03-26,Kahawa Sukari,Household,Detergent_5L,1,1213,Damage,10,Monday
+2026-04-18,Kahawa Sukari,Electronics,Blender,1,3026,Supplier_Short,14,Wednesday
+2026-03-26,Kahawa Sukari,Skin Care,Body_Lotion,1,26053,Damage,12,Friday
+2026-03-09,Kahawa Sukari,Household,Detergent_5L,2,1845,Theft,11,Monday
+2026-03-10,Kahawa Sukari,Electronics,Headphones,1,3230,Supplier_Short,16,Thursday
+2026-04-29,Kahawa Sukari,Household,Soap_Bar,3,2054,Damage,13,Wednesday
+2026-04-09,Kahawa Sukari,Household,Tissue_12pack,3,2618,Damage,15,Thursday
+2026-04-02,Kahawa Sukari,Electronics,Blender,1,2908,Supplier_Short,16,Sunday
+2026-03-31,Kahawa Sukari,Household,Tissue_12pack,4,3408,Supplier_Short,17,Wednesday
+2026-03-08,Kahawa Sukari,Groceries,Sugar_2kg,2,2560,Admin_Error,12,Saturday
+2026-04-27,Kahawa Sukari,Liquor,Vodka_750ml,3,1136,Admin_Error,10,Sunday
+2026-04-20,Kahawa Sukari,Groceries,Rice_5kg,2,2491,Admin_Error,16,Saturday
+2026-03-04,Kahawa Sukari,Household,Soap_Bar,2,2322,Damage,13,Saturday
+2026-04-10,Kahawa Sukari,Household,Tissue_12pack,2,3481,Damage,18,Friday
+2026-04-13,Kahawa Sukari,Household,Tissue_12pack,4,2594,Damage,8,Sunday
+2026-03-08,Kahawa Sukari,Skin Care,Bio_Oil,4,60994,Damage,18,Saturday
+2026-03-27,Kahawa Sukari,Skin Care,Bio_Oil,4,28490,Admin_Error,13,Wednesday
+2026-04-02,Kahawa Sukari,Skin Care,Sunscreen,4,60080,Theft,14,Thursday
+2026-03-09,Kahawa Sukari,Household,Tissue_12pack,4,909,Theft,12,Saturday
+2026-04-12,Kahawa Sukari,Household,Detergent_5L,1,1384,Supplier_Short,8,Wednesday
+2026-03-12,Kahawa Sukari,Liquor,Vodka_750ml,2,262,Spoilage,18,Wednesday
+2026-03-23,Kahawa Sukari,Liquor,Vodka_750ml,2,6699,Theft,19,Friday
+2026-03-18,Kahawa Sukari,Electronics,Headphones,3,1692,Damage,8,Tuesday
+2026-04-19,Kahawa Sukari,Household,Tissue_12pack,1,1048,Damage,11,Wednesday
+2026-03-31,Kahawa Sukari,Electronics,Microwave,2,888,Spoilage,11,Wednesday
+2026-04-06,Kahawa Sukari,Electronics,Blender,3,541,Admin_Error,19,Monday
+2026-03-23,Kahawa Sukari,Household,Tissue_12pack,1,1924,Spoilage,15,Sunday
