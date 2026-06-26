@@ -1,4 +1,4 @@
-# Naivas Kahawa Sukari — Loss Prevention Operations Center (LPOC v2.5)
+# Naivas Kahawa Sukari Shrinkage Analysis system
 
 ## 📌 Project Overview
 Project **Naivas Shrinkage Intelligence (NSI)** is an enterprise-grade retail command center specifically engineered for the 24-hour operations at the Naivas Kahawa Sukari branch. 
