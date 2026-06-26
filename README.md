@@ -1,4 +1,5 @@
 # Naivas Kahawa Sukari Shrinkage Analysis system
+#### Link: https://retailshrinkageanalysisdashboard-jjcprbpaefgjy2hdvnjymv.streamlit.app/
 
 ## 📌 Project Overview
 Project **Naivas Shrinkage Intelligence (NSI)** is an enterprise-grade retail command center specifically engineered for the 24-hour operations at the Naivas Kahawa Sukari branch. 
